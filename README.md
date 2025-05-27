@@ -1,4 +1,4 @@
-## 반갑다 [ORI-MORI@naver.com]👋
+## 처음 뵙겠습니다. [ORI-MORI@naver.com]👋
 
 ## 🛠 Tech Stack
 
