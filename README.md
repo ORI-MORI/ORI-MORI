@@ -28,10 +28,7 @@
 
 | 프로젝트 명 | 개요 | 상세 보기 |
 |------------|------|-----------|
-| [ORI-MORI.github.io](https://github.com/ORI-MORI/ORI-MORI.github.io) | 개인 포트폴리오 및 블로그를 위한 정적 웹사이트 | [🔗 이동](https://github.com/ORI-MORI/ORI-MORI.github.io) |
-| [ORI-MORI](https://github.com/ORI-MORI/ORI-MORI) | GitHub 프로필 README 및 소개 자료 | [🔗 이동](https://github.com/ORI-MORI/ORI-MORI) |
-| [ORI-MORI-Algorithm](https://github.com/ORI-MORI/ORI-MORI-Algorithm) | 알고리즘 문제 풀이 및 학습 기록 | [🔗 이동](https://github.com/ORI-MORI/ORI-MORI-Algorithm) |
-| [ORI-MORI-Project](https://github.com/ORI-MORI/ORI-MORI-Project) | 다양한 프로젝트 모음 및 실습 코드 | [🔗 이동](https://github.com/ORI-MORI/ORI-MORI-Project) |
-| [ORI-MORI-Study](https://github.com/ORI-MORI/ORI-MORI-Study) | 스터디 자료 및 학습 정리 노트 | [🔗 이동](https://github.com/ORI-MORI/ORI-MORI-Study) |
-| [ORI-MORI-Data](https://github.com/ORI-MORI/ORI-MORI-Data) | 데이터 분석 및 시각화 프로젝트 | [🔗 이동](https://github.com/ORI-MORI/ORI-MORI-Data) |
-| [ORI-MORI-Utils](https://github.com/ORI-MORI/ORI-MORI-Utils) | 자주 사용하는 유틸리티 함수 모음 | [🔗 이동](https://github.com/ORI-MORI/ORI-MORI-Utils) |
+| [MSG_CTF_BACK](https://github.com/ORI-MORI/MSG_CTF_BACK) | MJSEC CTF 대회 페이지의 백엔드 시스템. Spring Boot 와 MySQL 을 기반으로 작성 | [🔗 이동](https://github.com/ORI-MORI/MSG_CTF_BACK) |
+| [welcome_mjsec](https://github.com/ORI-MORI/welcome_mjsec) | MJSEC 신규 기수 입단 문제들의 모음. 웹해킹, 리버싱, 포렌식 와 같은 다양한 카테고리의 문제 포함 | [🔗 이동](https://github.com/ORI-MORI/welcome_mjsec) |
+| [Board](https://github.com/ORI-MORI/board) | 자바 스프링 스터디 실습 레포지토리 | [🔗 이동](https://github.com/ORI-MORI/board) |
+| [Reagan](https://github.com/MJSEC-MJU/Reagan) | AI 기반 보안 시스템. lightGBM 모델로 학습한 AI 와 연동된 보안 분석 기능 제공 | [🔗 이동](https://github.com/MJSEC-MJU/Reagan) |
